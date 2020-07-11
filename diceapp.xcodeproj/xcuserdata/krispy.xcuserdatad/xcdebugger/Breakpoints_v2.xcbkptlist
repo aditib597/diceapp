@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "83315F5B-4974-4943-8569-3350F7BFE726"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91276C7B-D41D-476E-B3A7-6B58355C6584"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "diceapp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "91276C7B-D41D-476E-B3A7-6B58355C6584 - 15317c71d8856082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.init(diceNumber: Swift.Int, image: Swift.String) -&gt; diceapp.ContentView"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "91276C7B-D41D-476E-B3A7-6B58355C6584 - 7a1ec318a90f78c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.init() -&gt; diceapp.ContentView"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB8AC53C-2FC0-4FCF-B62E-2BD40D261AF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "diceapp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "FB8AC53C-2FC0-4FCF-B62E-2BD40D261AF4 - 4640b7846f32fefd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of diceapp.ContentView.imagesArray : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "FB8AC53C-2FC0-4FCF-B62E-2BD40D261AF4 - a2b4a3befc34931c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.imagesArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "FB8AC53C-2FC0-4FCF-B62E-2BD40D261AF4 - c80f25b1387cd6d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.imagesArray.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "FB8AC53C-2FC0-4FCF-B62E-2BD40D261AF4 - d6d2fea1a42720d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.imagesArray.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "FB8AC53C-2FC0-4FCF-B62E-2BD40D261AF4 - 3c493fa31cde0d65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.imagesArray.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "FB8AC53C-2FC0-4FCF-B62E-2BD40D261AF4 - 6e3b71efa364aff8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.$imagesArray.getter : SwiftUI.Binding&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "FB8AC53C-2FC0-4FCF-B62E-2BD40D261AF4 - 7a1ec318a90f78c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.init() -&gt; diceapp.ContentView"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "219">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C5CBC5C-EB45-4872-BB7E-CF1DCCEBEA67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "diceapp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "4C5CBC5C-EB45-4872-BB7E-CF1DCCEBEA67 - b9f98a23d5fa3a82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of diceapp.ContentView.diceNumber : Swift.Int"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "4C5CBC5C-EB45-4872-BB7E-CF1DCCEBEA67 - 6cb207da0f66b8b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.diceNumber.getter : Swift.Int"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "4C5CBC5C-EB45-4872-BB7E-CF1DCCEBEA67 - c6d2e20489dfecb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.diceNumber.setter : Swift.Int"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "4C5CBC5C-EB45-4872-BB7E-CF1DCCEBEA67 - b77badd4e6db9fa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.diceNumber.modify : Swift.Int"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "4C5CBC5C-EB45-4872-BB7E-CF1DCCEBEA67 - d3c9f3b4b5398fb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.diceNumber.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "4C5CBC5C-EB45-4872-BB7E-CF1DCCEBEA67 - 348ba56baf50ce90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.$diceNumber.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "4C5CBC5C-EB45-4872-BB7E-CF1DCCEBEA67 - 7a1ec318a90f78c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "diceapp.ContentView.init() -&gt; diceapp.ContentView"
+                  moduleName = "diceapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krispy/NKdocuments/Aditi/ios%20apps/aditis%20first%20app/diceapp/diceapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
